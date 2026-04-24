@@ -15,7 +15,8 @@
 | 原生插件 | `ChaiTeaLib.dll`、`ChaiTeaPlugin.dll`、`hdPhantom64.dll`、`sixense_x64.dll` |
 
 > 所需原生 DLL 已包含在 `Assets/ChaiTea/Plugins/` 目录下。  
-> 运行场景前，请确保已在本机安装 Geomagic Touch 驱动程序。
+> 本示例工程所使用的原生 DLL 来源于另一个仓库项目：**LJY008/PICO_OMEGA7_DLL**  
+> 可前往该仓库获取/更新对应 DLL：<https://github.com/LJY008/PICO_OMEGA7_DLL>  
 
 ---
 
