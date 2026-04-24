@@ -132,6 +132,11 @@ Assets/
 | `Magnetic Max Distance`（磁力作用距离） | 磁力效果开始生效的距离 |
 
 ---
+## 演示预览
+
+### 物理模型场景（ODESimulation）
+
+![物理模型演示](物理模型.gif)
 
 ## 快速开始
 
